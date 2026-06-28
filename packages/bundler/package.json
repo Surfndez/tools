@@ -45,7 +45,7 @@
     "@types/parse5": "^2.2.34",
     "@types/source-map": "=0.5.2",
     "clang-format": "=1.0.49",
-    "eslint": "^2.8.0",
+    "eslint": "^10.6.0",
     "firebase": "^2.4.1",
     "rewire": "^2.5.2",
     "source-map-support": "^0.4.2",
